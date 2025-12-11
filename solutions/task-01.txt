@@ -1,0 +1,6 @@
+git config --global user.name   - setup user name
+git config --global user.email  - setup user email
+git init                        - create branch with name "master"
+git add                         - add file to version control
+git commit                      - create commit with current files values
+git log                         - show history of repository
