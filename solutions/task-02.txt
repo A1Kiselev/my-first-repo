@@ -1,0 +1,2 @@
+git branch                  - create new branch
+git checkout                - switch active branch
